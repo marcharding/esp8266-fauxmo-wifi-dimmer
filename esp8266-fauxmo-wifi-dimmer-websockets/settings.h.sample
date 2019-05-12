@@ -1,0 +1,4 @@
+#define WLAN_SSID "SSID"
+#define WLAN_PSK "0123456789"
+#define ESP_DEVICE_IP "192.168.0.123"
+#define ESP_DIMMER_ID "ESP Fauxmo Device"
